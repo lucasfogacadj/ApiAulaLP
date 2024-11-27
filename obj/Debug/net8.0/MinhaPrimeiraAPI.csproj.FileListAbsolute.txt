@@ -31,3 +31,4 @@ C:\Users\Lcuas\Documents\Aulas\LPQua\MinhaPrimeiraAPI\obj\Debug\net8.0\refint\Mi
 C:\Users\Lcuas\Documents\Aulas\LPQua\MinhaPrimeiraAPI\obj\Debug\net8.0\MinhaPrimeiraAPI.pdb
 C:\Users\Lcuas\Documents\Aulas\LPQua\MinhaPrimeiraAPI\obj\Debug\net8.0\MinhaPrimeiraAPI.genruntimeconfig.cache
 C:\Users\Lcuas\Documents\Aulas\LPQua\MinhaPrimeiraAPI\obj\Debug\net8.0\ref\MinhaPrimeiraAPI.dll
+C:\Users\Lcuas\Documents\Aulas\LPQua\MinhaPrimeiraAPI\obj\Debug\net8.0\MinhaPrimeiraAPI.sourcelink.json
